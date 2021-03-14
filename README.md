@@ -32,6 +32,3 @@ Actual order level data from 2017 on the Google Store + Fake companion data
 **ETL Requirements**
 - flow through .xlsx file
 - four sheets containing information on how dataframes were assembled (extraction and transformation)
-
-
-**Alex's data became broken somehow and he does not know why it happened. It worked on the day that I modified it, but it stoped working when he opened it up again.**
